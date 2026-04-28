@@ -8,7 +8,7 @@
 
 🧠 Sobre mim
 
-Sou estudante de desenvolvimento web, focado principalmente em front-end com React, mas também com um bom conhecimento em back-end.
+Sou estudante de Engenharia de Software no Instituto Infnet, focado principalmente em front-end com React, mas também com um bom conhecimento em back-end.
 
 Gosto de aprender construindo projetos reais e estou sempre buscando evoluir minhas habilidades.
 
@@ -47,3 +47,9 @@ Conseguir uma oportunidade como desenvolvedor júnior ou estagiário, onde eu po
 📫 Contato\
 📧 E-mail: bernardocytryn@gmail.com\
 💼 LinkedIn: linkedin.com/in/bernardo-cytryn/
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardo-cytryn&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-cytryn&layout=compact&theme=tokyonight)
