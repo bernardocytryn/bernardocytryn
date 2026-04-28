@@ -1,16 +1,49 @@
-## Hi there 👋
+👋 Olá, eu sou o Bernardo
 
-<!--
-**Bernardo-Cytryn/Bernardo-Cytryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação
+⚛️ React | TypeScript | Java | Python
+🚀 Buscando oportunidades como desenvolvedor
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Sobre mim
+
+Sou estudante de desenvolvimento web, focado principalmente em front-end com React, mas também com um bom conhecimento em back-end.
+
+Gosto de aprender construindo projetos reais e estou sempre buscando evoluir minhas habilidades.
+
+---
+
+🚀 Tecnologias que estou usando
+
+⚛️ React
+🟦 TypeScript
+🌐 HTML & CSS
+🐘 PostgreSQL
+☕ Java / C# (backend)
+
+---
+
+📌 Projetos em destaque
+
+📅 Loja de Aluguel de Bicicletas (Java)
+🛒 App de Caixa de Supermercado (Python)
+💪 Site Informacional de Academia (JavaScript)
+
+---
+
+📈 Atualmente aprendendo
+
+Estruturação de projetos maiores em React
+Boas práticas de front-end
+Integração completa com backend
+
+---
+
+🎯 Objetivo
+
+Conseguir uma oportunidade como desenvolvedor júnior ou estagiário, onde eu possa aprender na prática e evoluir profissionalmente.
+
+📫 Contato
+📧 E-mail: bernardocytryn@gmail.com
+💼 LinkedIn: linkedin.com/in/bernardo-cytryn/
