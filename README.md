@@ -4,6 +4,17 @@
 ⚛️ React | TypeScript | Java | Python\
 🚀 Buscando oportunidades como desenvolvedor
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardo-cytryn&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-cytryn&layout=compact&theme=tokyonight"/>
+</p>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ---
 
 🧠 Sobre mim
@@ -47,9 +58,3 @@ Conseguir uma oportunidade como desenvolvedor júnior ou estagiário, onde eu po
 📫 Contato\
 📧 E-mail: bernardocytryn@gmail.com\
 💼 LinkedIn: linkedin.com/in/bernardo-cytryn/
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardo-cytryn&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-cytryn&layout=compact&theme=tokyonight)
