@@ -21,7 +21,7 @@
 
 ---
 
-🧠 Sobre mim
+<h2>🧠 Sobre mim</h2>
 
 Sou estudante de Engenharia de Software no Instituto Infnet, focado principalmente em front-end com React, mas também com um bom conhecimento em back-end.
 
@@ -29,7 +29,7 @@ Gosto de aprender construindo projetos reais e estou sempre buscando evoluir min
 
 ---
 
-🚀 Tecnologias que estou usando
+<h2>🚀 Tecnologias que estou usando</h2>
 
 ⚛️ React\
 🟦 TypeScript\
@@ -39,7 +39,7 @@ Gosto de aprender construindo projetos reais e estou sempre buscando evoluir min
 
 ---
 
-📌 Projetos em destaque
+<h2>📌 Projetos em destaque</h2>
 
 📅 Loja de Aluguel de Bicicletas (Java)\
 🛒 App de Caixa de Supermercado (Python)\
@@ -47,7 +47,7 @@ Gosto de aprender construindo projetos reais e estou sempre buscando evoluir min
 
 ---
 
-📈 Atualmente aprendendo
+<h2>📈 Atualmente aprendendo</h2>
 
 Estruturação de projetos maiores em React\
 Boas práticas de front-end\
@@ -55,7 +55,7 @@ Integração completa com backend
 
 ---
 
-🎯 Objetivo
+<h2>🎯 Objetivo</h2>
 
 Conseguir uma oportunidade como desenvolvedor júnior ou estagiário, onde eu possa aprender na prática e evoluir profissionalmente.
 
