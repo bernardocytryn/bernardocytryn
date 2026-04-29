@@ -27,13 +27,13 @@ Sou estudante de Engenharia de Software no Instituto Infnet, focado principalmen
 
 Gosto de aprender construindo projetos reais e estou sempre buscando evoluir minhas habilidades.
 
-<h2>🚀 Tecnologias que estou usando</h2>
+<h2>🛠️ Ferramentas</h2>
 
-⚛️ React\
-🟦 TypeScript\
-🌐 HTML & CSS\
-🐘 PostgreSQL\
-☕ Java / C# (backend)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="50" />
 
 <h2>📌 Projetos em destaque</h2>
 
