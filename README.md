@@ -45,12 +45,6 @@ Gosto de aprender construindo projetos reais e estou sempre buscando evoluir min
 🛒 App de Caixa de Supermercado (Python)\
 💪 Site Informacional de Academia (JavaScript)
 
-<h2>📈 Atualmente aprendendo</h2>
-
-Estruturação de projetos maiores em React\
-Boas práticas de front-end\
-Integração completa com backend
-
 <h2>🎯 Objetivo</h2>
 
 Conseguir uma oportunidade como desenvolvedor júnior ou estagiário, onde eu possa aprender na prática e evoluir profissionalmente.
