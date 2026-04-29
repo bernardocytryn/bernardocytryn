@@ -27,8 +27,6 @@ Sou estudante de Engenharia de Software no Instituto Infnet, focado principalmen
 
 Gosto de aprender construindo projetos reais e estou sempre buscando evoluir minhas habilidades.
 
----
-
 <h2>🚀 Tecnologias que estou usando</h2>
 
 ⚛️ React\
@@ -37,23 +35,17 @@ Gosto de aprender construindo projetos reais e estou sempre buscando evoluir min
 🐘 PostgreSQL\
 ☕ Java / C# (backend)
 
----
-
 <h2>📌 Projetos em destaque</h2>
 
 📅 Loja de Aluguel de Bicicletas (Java)\
 🛒 App de Caixa de Supermercado (Python)\
 💪 Site Informacional de Academia (JavaScript)
 
----
-
 <h2>📈 Atualmente aprendendo</h2>
 
 Estruturação de projetos maiores em React\
 Boas práticas de front-end\
 Integração completa com backend
-
----
 
 <h2>🎯 Objetivo</h2>
 
