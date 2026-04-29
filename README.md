@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Bernardo
+<h1>👋 Olá, eu sou o Bernardo</h1>
 
 💻 Desenvolvedor em formação\
 ⚛️ React | TypeScript | Java | Python\
