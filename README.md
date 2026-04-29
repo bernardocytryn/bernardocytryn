@@ -28,9 +28,7 @@ Sou estudante de Engenharia de Software no Instituto Infnet, focado principalmen
 Gosto de aprender construindo projetos reais e estou sempre buscando evoluir minhas habilidades.
 
 <h2>🛠️ Ferramentas</h2>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-</a>
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" />
